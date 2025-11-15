@@ -1,0 +1,3 @@
+ same ;2025-02-05;12:30;work
+bane ;2025-02-06;12:45;personal 
+kane;2025-05-06;11:59;personal
